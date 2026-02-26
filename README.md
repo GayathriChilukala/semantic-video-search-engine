@@ -1,5 +1,5 @@
 # Semantic Video Search Engine (Prototype)
-
+ 
 This repository provides a minimal prototype for building a semantic video search engine using OpenAI embeddings and FAISS for local vector search.
 
 Quick start
